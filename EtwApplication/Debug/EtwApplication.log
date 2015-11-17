@@ -1,0 +1,13 @@
+﻿Build started 11/15/2015 3:08:58 PM.
+     1>Project "E:\Users\dali\source\EtwApplication\EtwApplication\EtwApplication.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Program Files (x86)\Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cc
+         main.cc
+       Link:
+         E:\Program Files (x86)\Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\users\dali\source\EtwApplication\Debug\EtwApplication.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\users\dali\source\EtwApplication\Debug\EtwApplication.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\users\dali\source\EtwApplication\Debug\EtwApplication.lib" /MACHINE:X86 Debug\main.obj
+         EtwApplication.vcxproj -> E:\users\dali\source\EtwApplication\Debug\EtwApplication.exe
+     1>Done Building Project "E:\Users\dali\source\EtwApplication\EtwApplication\EtwApplication.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.79
